@@ -1,4 +1,3 @@
-![image](https://github.com/sempiternalsykes/UV-VIS-spectrometry/assets/121533500/5e308d60-623e-46af-95ce-359ff58522bf)# UV-VIS-spectrometry
 
 In this project, we designed and built an UV-Vis spectrophotometry using LDR light
 sensor and servo motor. We designed a logic part where the wavelength can be
